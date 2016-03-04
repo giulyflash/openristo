@@ -1,0 +1,1 @@
+Il software gestisce gli ordini e la contabilità dei locali pubblici. Sviluppato in php con database mysql. Possibilità di installazione su server remoto per la gestione a distanza.
